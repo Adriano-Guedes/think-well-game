@@ -1,0 +1,157 @@
+[
+  {
+    "tema": "Tema Geografia",
+    "perguntas": [
+      {
+        "enunciado": "Qual é o maior país do mundo em extensão territorial?",
+        "alternativas": ["China", "Brasil", "Estados Unidos", "Rússia"],
+        "correta": 3
+      },
+      {
+        "enunciado": "Qual é o rio mais extenso do mundo?",
+        "alternativas": ["Amazonas", "Nilo", "Yangtzé", "Mississippi"],
+        "correta": 0
+      },
+      {
+        "enunciado": "Qual é o deserto mais seco do mundo?",
+        "alternativas": ["Saara", "Kalahari", "Atacama", "Gobi"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual continente possui o maior número de países?",
+        "alternativas": ["África", "Ásia", "Europa", "América"],
+        "correta": 0
+      },
+      {
+        "enunciado": "Qual país tem a maior população do mundo?",
+        "alternativas": ["Índia", "Estados Unidos", "Indonésia", "China"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual é o menor país do mundo?",
+        "alternativas": ["Mônaco", "Malta", "Vaticano", "Liechtenstein"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual oceano banha a costa leste do Brasil?",
+        "alternativas": ["Pacífico", "Índico", "Ártico", "Atlântico"],
+        "correta": 3
+      },
+      {
+        "enunciado": "Qual é a capital do Canadá?",
+        "alternativas": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+        "correta": 3
+      },
+      {
+        "enunciado": "Qual país é cortado pela linha do Equador e pelo Meridiano de Greenwich?",
+        "alternativas": ["Nigéria", "Indonésia", "Gabão", "São Tomé e Príncipe"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual é o maior arquipélago do mundo?",
+        "alternativas": ["Filipinas", "Indonésia", "Japão", "Maldivas"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual cidade é conhecida como a Cidade Luz?",
+        "alternativas": ["Nova York", "Paris", "Londres", "Roma"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual é o ponto mais alto da Terra?",
+        "alternativas": ["K2", "Monte Everest", "Mont Blanc", "Pico da Neblina"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual país tem formato semelhante a uma bota?",
+        "alternativas": ["Portugal", "Chile", "Itália", "Grécia"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual é o nome do estreito que separa a Ásia da América do Norte?",
+        "alternativas": ["Estreito de Gibraltar", "Estreito de Bering", "Estreito de Ormuz", "Estreito de Magalhães"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual cidade é a capital da Austrália?",
+        "alternativas": ["Sidney", "Melbourne", "Brisbane", "Camberra"],
+        "correta": 3
+      },
+      {
+        "enunciado": "Qual país é conhecido como 'Terra do Sol Nascente'?",
+        "alternativas": ["China", "Coreia do Sul", "Japão", "Tailândia"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual cordilheira atravessa a América do Sul de norte a sul?",
+        "alternativas": ["Alpes", "Himalaia", "Andes", "Montanhas Rochosas"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual é a capital da Argentina?",
+        "alternativas": ["Córdoba", "Rosário", "Mendoza", "Buenos Aires"],
+        "correta": 3
+      },
+      {
+        "enunciado": "Qual país europeu é conhecido por seus canais e diques?",
+        "alternativas": ["França", "Bélgica", "Holanda", "Dinamarca"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual é o mar que banha a costa oriental da Itália?",
+        "alternativas": ["Mar do Norte", "Mar Tirreno", "Mar Adriático", "Mar Mediterrâneo"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual país faz fronteira com o Brasil a nordeste?",
+        "alternativas": ["Peru", "Argentina", "Guiana Francesa", "Paraguai"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual é o maior estado brasileiro em extensão territorial?",
+        "alternativas": ["Pará", "Amazonas", "Mato Grosso", "Bahia"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Em que continente está localizado o deserto do Saara?",
+        "alternativas": ["Ásia", "América", "África", "Europa"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual país da América do Sul não tem saída para o mar?",
+        "alternativas": ["Bolívia", "Uruguai", "Equador", "Chile"],
+        "correta": 0
+      },
+      {
+        "enunciado": "Qual é o nome do relevo submarino mais profundo conhecido?",
+        "alternativas": ["Fossa de Java", "Fossa das Marianas", "Dorsal Mesoatlântica", "Trincheira do Pacífico"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual é o maior deserto do mundo em extensão territorial?",
+        "alternativas": ["Saara", "Deserto Polar Antártico", "Deserto da Antártida", "Deserto da Arábia"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual cidade é dividida entre Europa e Ásia?",
+        "alternativas": ["Moscou", "Istambul", "Teerã", "Atenas"],
+        "correta": 1
+      },
+      {
+        "enunciado": "O que é uma península?",
+        "alternativas": ["Terreno plano entre montanhas", "Área de floresta tropical", "Área cercada por água em três lados", "Montanha submersa"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual oceano está entre a África e a Austrália?",
+        "alternativas": ["Atlântico", "Pacífico", "Índico", "Ártico"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual é o nome da floresta tropical mais extensa do mundo?",
+        "alternativas": ["Mata Atlântica", "Floresta do Congo", "Floresta Amazônica", "Taiga"],
+        "correta": 2
+      }
+    ]
+  }
+]

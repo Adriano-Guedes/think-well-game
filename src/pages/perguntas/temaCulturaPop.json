@@ -1,0 +1,157 @@
+[
+  {
+    "tema": "Tema Cultura Pop",
+    "perguntas": [
+      {
+        "enunciado": "Qual super-herói é conhecido como 'O Cavaleiro das Trevas'?",
+        "alternativas": ["Superman", "Homem-Aranha", "Batman", "Homem de Ferro"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual é o nome completo do personagem principal de Harry Potter?",
+        "alternativas": ["Harry Weasley Potter", "Harry Tiago Potter", "Harry Albus Potter", "Harry Sirius Potter"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Quem é o criador do universo Marvel?",
+        "alternativas": ["Stan Lee", "Bob Kane", "Jack Kirby", "Alan Moore"],
+        "correta": 0
+      },
+      {
+        "enunciado": "Qual cantor é conhecido como 'Rei do Pop'?",
+        "alternativas": ["Elvis Presley", "Michael Jackson", "Freddie Mercury", "Justin Timberlake"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual série de TV apresenta os personagens Jon Snow e Daenerys Targaryen?",
+        "alternativas": ["Breaking Bad", "Vikings", "Game of Thrones", "The Witcher"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Em qual cidade se passa a maior parte da série Friends?",
+        "alternativas": ["Los Angeles", "Nova York", "Chicago", "Seattle"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual é o nome da nave da saga Star Wars pilotada por Han Solo?",
+        "alternativas": ["Estrela da Morte", "X-Wing", "Millennium Falcon", "Star Destroyer"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Quem interpretou o personagem Wolverine nos filmes da Marvel?",
+        "alternativas": ["Hugh Jackman", "Chris Hemsworth", "Robert Downey Jr.", "Tom Hardy"],
+        "correta": 0
+      },
+      {
+        "enunciado": "Qual é o nome do vilão principal em Vingadores: Guerra Infinita?",
+        "alternativas": ["Loki", "Thanos", "Ultron", "Galactus"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Em qual ano foi lançado o primeiro filme da saga Harry Potter?",
+        "alternativas": ["1999", "2000", "2001", "2002"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Quem é o autor das Crônicas de Nárnia?",
+        "alternativas": ["J.K. Rowling", "George R.R. Martin", "J.R.R. Tolkien", "C.S. Lewis"],
+        "correta": 3
+      },
+      {
+        "enunciado": "Qual banda lançou o álbum 'Abbey Road'?",
+        "alternativas": ["The Rolling Stones", "The Beatles", "Queen", "Pink Floyd"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual é o nome da princesa da Disney que tem um tigre chamado Rajah?",
+        "alternativas": ["Ariel", "Jasmine", "Cinderela", "Rapunzel"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Quem é o alter ego do herói Homem-Aranha?",
+        "alternativas": ["Clark Kent", "Peter Parker", "Bruce Wayne", "Steve Rogers"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual série retrata zumbis e o personagem Rick Grimes?",
+        "alternativas": ["The Walking Dead", "Z Nation", "Black Summer", "iZombie"],
+        "correta": 0
+      },
+      {
+        "enunciado": "Qual é o nome da escola de mutantes do Professor Xavier?",
+        "alternativas": ["Escola Hogwarts", "Torre dos Vingadores", "Instituto Xavier", "Mansão Mutante"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Quem canta a música 'Shake It Off'?",
+        "alternativas": ["Ariana Grande", "Katy Perry", "Taylor Swift", "Billie Eilish"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual é o nome do clã de Naruto?",
+        "alternativas": ["Uchiha", "Hatake", "Uzumaki", "Senju"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual filme da Disney é ambientado na Polinésia?",
+        "alternativas": ["Frozen", "Valente", "Moana", "Pocahontas"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual série se passa em Hawkins, Indiana, e envolve o Mundo Invertido?",
+        "alternativas": ["Dark", "Stranger Things", "The Umbrella Academy", "The OA"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Quem é o bruxo mais famoso da série Harry Potter?",
+        "alternativas": ["Draco Malfoy", "Alvo Dumbledore", "Rony Weasley", "Harry Potter"],
+        "correta": 3
+      },
+      {
+        "enunciado": "Qual cantor fez sucesso com a música 'Blinding Lights'?",
+        "alternativas": ["Drake", "The Weeknd", "Post Malone", "Bruno Mars"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual é o nome da personagem principal de Jogos Vorazes?",
+        "alternativas": ["Tris", "Katniss", "Bella", "Arya"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual personagem da Marvel tem um martelo mágico chamado Mjölnir?",
+        "alternativas": ["Loki", "Hércules", "Thor", "Hulk"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Quem é o criador da série The Simpsons?",
+        "alternativas": ["Matt Groening", "Seth MacFarlane", "Trey Parker", "Dan Harmon"],
+        "correta": 0
+      },
+      {
+        "enunciado": "Qual é o nome do parque de dinossauros fictício em um famoso filme?",
+        "alternativas": ["Dino World", "Jurassic Park", "Cretaceous Zoo", "Dino Island"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual é o nome verdadeiro do Homem de Ferro?",
+        "alternativas": ["Steve Rogers", "Tony Stark", "Bruce Banner", "Nick Fury"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Em que série podemos encontrar o personagem Sheldon Cooper?",
+        "alternativas": ["How I Met Your Mother", "The Big Bang Theory", "Friends", "Modern Family"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual filme da Disney mostra um leão chamado Simba?",
+        "alternativas": ["Bambi", "Tarzan", "O Rei Leão", "Hércules"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual artista pop ficou famosa com o hit 'Bad Romance'?",
+        "alternativas": ["Lady Gaga", "Rihanna", "Adele", "Dua Lipa"],
+        "correta": 0
+      }
+    ]
+  }
+]

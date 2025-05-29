@@ -1,0 +1,157 @@
+[
+  {
+    "tema": "Tema Ciencias",
+    "perguntas": [
+      {
+        "enunciado": "Qual é o maior órgão do corpo humano?",
+        "alternativas": ["Fígado", "Pele", "Coração", "Pulmão"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual é a função principal do pulmão?",
+        "alternativas": ["Bombear sangue", "Digestão", "Troca gasosa", "Filtrar resíduos"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual planeta é conhecido como planeta vermelho?",
+        "alternativas": ["Vênus", "Terra", "Júpiter", "Marte"],
+        "correta": 3
+      },
+      {
+        "enunciado": "O que é fotossíntese?",
+        "alternativas": ["Digestão de animais", "Respiração das plantas", "Produção de alimentos pelas plantas", "Evaporação da água"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual gás é mais abundante na atmosfera da Terra?",
+        "alternativas": ["Oxigênio", "Gás carbônico", "Nitrogênio", "Hidrogênio"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Como se chama o processo de transformação da água em vapor?",
+        "alternativas": ["Evaporação", "Condensação", "Precipitação", "Solidificação"],
+        "correta": 0
+      },
+      {
+        "enunciado": "Qual é a unidade de medida da temperatura no sistema internacional?",
+        "alternativas": ["Fahrenheit", "Kelvin", "Celsius", "Pascal"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual parte do corpo humano é responsável por bombear o sangue?",
+        "alternativas": ["Pulmão", "Cérebro", "Fígado", "Coração"],
+        "correta": 3
+      },
+      {
+        "enunciado": "Qual é o estado físico da água a 100°C ao nível do mar?",
+        "alternativas": ["Sólido", "Gasoso", "Líquido", "Plasma"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Quantos planetas existem no sistema solar?",
+        "alternativas": ["7", "8", "9", "10"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual é o nome do nosso satélite natural?",
+        "alternativas": ["Sol", "Vênus", "Lua", "Marte"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual é a função das raízes nas plantas?",
+        "alternativas": ["Fazer fotossíntese", "Produzir frutos", "Absorver água e nutrientes", "Atrair polinizadores"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual é o principal elemento químico presente na água?",
+        "alternativas": ["Carbono", "Oxigênio", "Hidrogênio", "Nitrogênio"],
+        "correta": 2
+      },
+      {
+        "enunciado": "O que é um eclipse solar?",
+        "alternativas": ["A Lua cobre o Sol", "A Terra bloqueia a luz solar", "O Sol cobre a Lua", "O Sol desaparece"],
+        "correta": 0
+      },
+      {
+        "enunciado": "Qual desses animais é um mamífero?",
+        "alternativas": ["Jacaré", "Golfinho", "Papagaio", "Tubarão"],
+        "correta": 1
+      },
+      {
+        "enunciado": "O que é DNA?",
+        "alternativas": ["Tipo de célula", "Hormônio", "Material genético", "Proteína alimentar"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual é o planeta mais próximo do Sol?",
+        "alternativas": ["Terra", "Mercúrio", "Vênus", "Marte"],
+        "correta": 1
+      },
+      {
+        "enunciado": "O que significa H2O?",
+        "alternativas": ["Hidrogênio líquido", "Ácido", "Fórmula da água", "Gás venenoso"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual órgão é responsável pela digestão no corpo humano?",
+        "alternativas": ["Pulmão", "Coração", "Estômago", "Pâncreas"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual é o maior planeta do sistema solar?",
+        "alternativas": ["Terra", "Saturno", "Netuno", "Júpiter"],
+        "correta": 3
+      },
+      {
+        "enunciado": "Qual é o estado físico do ferro à temperatura ambiente?",
+        "alternativas": ["Gasoso", "Líquido", "Sólido", "Plasma"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Que órgão filtra o sangue no corpo humano?",
+        "alternativas": ["Fígado", "Rim", "Coração", "Estômago"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual fenômeno causa os trovões?",
+        "alternativas": ["Terremoto", "Colisão de nuvens", "Relâmpago", "Chuva forte"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual é o principal gás que os seres humanos respiram?",
+        "alternativas": ["Oxigênio", "Gás carbônico", "Hidrogênio", "Hélio"],
+        "correta": 0
+      },
+      {
+        "enunciado": "A camada de ozônio protege contra?",
+        "alternativas": ["Chuva", "Vento solar", "Radiação ultravioleta", "Ondas de calor"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual é o nome do processo que transforma líquido em sólido?",
+        "alternativas": ["Fusão", "Evaporação", "Condensação", "Solidificação"],
+        "correta": 3
+      },
+      {
+        "enunciado": "Qual o nome do cientista que criou a teoria da gravidade?",
+        "alternativas": ["Einstein", "Newton", "Galileu", "Darwin"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual é o principal órgão do sistema nervoso central?",
+        "alternativas": ["Cérebro", "Coração", "Fígado", "Medula"],
+        "correta": 0
+      },
+      {
+        "enunciado": "Qual dos seguintes é um exemplo de herbívoro?",
+        "alternativas": ["Leão", "Tigre", "Cavalo", "Crocodilo"],
+        "correta": 2
+      },
+      {
+        "enunciado": "O que é a clorofila?",
+        "alternativas": ["Enzima digestiva", "Hormônio animal", "Pigmento verde das plantas", "Tipo de nutriente"],
+        "correta": 2
+      }
+    ]
+  }
+]
