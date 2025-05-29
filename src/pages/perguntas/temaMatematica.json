@@ -1,0 +1,157 @@
+[
+  {
+    "tema": "Tema Matematica",
+    "perguntas": [
+      {
+        "enunciado": "Qual é o resultado de 7 + 8?",
+        "alternativas": ["14", "15", "16", "13"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Quanto é 9 x 6?",
+        "alternativas": ["54", "56", "63", "49"],
+        "correta": 0
+      },
+      {
+        "enunciado": "Qual é o número primo entre os seguintes?",
+        "alternativas": ["9", "15", "17", "21"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Quanto é 81 dividido por 9?",
+        "alternativas": ["7", "8", "9", "10"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual é a raiz quadrada de 144?",
+        "alternativas": ["11", "12", "13", "14"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual é o valor de π (pi) arredondado para duas casas decimais?",
+        "alternativas": ["3.14", "3.13", "3.15", "3.16"],
+        "correta": 0
+      },
+      {
+        "enunciado": "Qual é o resultado de 5²?",
+        "alternativas": ["10", "15", "25", "20"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual é o próximo número da sequência: 2, 4, 8, 16, ...?",
+        "alternativas": ["24", "30", "32", "36"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Quanto é 100 - 37?",
+        "alternativas": ["63", "67", "73", "61"],
+        "correta": 0
+      },
+      {
+        "enunciado": "Quantos graus tem um ângulo reto?",
+        "alternativas": ["45°", "60°", "90°", "180°"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual é a metade de 1.000?",
+        "alternativas": ["100", "250", "500", "750"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Quanto é 13 x 4?",
+        "alternativas": ["42", "52", "50", "56"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual é a fração equivalente a 0,5?",
+        "alternativas": ["1/4", "1/2", "3/4", "2/3"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Quantos lados tem um hexágono?",
+        "alternativas": ["5", "6", "7", "8"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual é o valor de 10³?",
+        "alternativas": ["30", "100", "1000", "10000"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Se um triângulo tem lados de 3cm, 4cm e 5cm, ele é:",
+        "alternativas": ["Equilátero", "Isósceles", "Escaleno e retângulo", "Retângulo e isósceles"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual é o valor de 0 dividido por qualquer número diferente de zero?",
+        "alternativas": ["0", "1", "Infinito", "Indeterminado"],
+        "correta": 0
+      },
+      {
+        "enunciado": "Qual a operação inversa da multiplicação?",
+        "alternativas": ["Adição", "Subtração", "Divisão", "Potenciação"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Quanto é 3³?",
+        "alternativas": ["6", "9", "18", "27"],
+        "correta": 3
+      },
+      {
+        "enunciado": "Quantos segundos há em uma hora?",
+        "alternativas": ["3.000", "3.600", "6.000", "6.600"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual é o valor de | -10 | (valor absoluto)?",
+        "alternativas": ["-10", "10", "0", "1"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual é o maior número inteiro menor que 5?",
+        "alternativas": ["3", "4", "5", "6"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Se x + 3 = 7, qual o valor de x?",
+        "alternativas": ["2", "3", "4", "5"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Quantos graus tem um triângulo?",
+        "alternativas": ["90°", "180°", "270°", "360°"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Qual é o número que multiplicado por ele mesmo resulta 49?",
+        "alternativas": ["5", "6", "7", "8"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Quanto é ¼ de 100?",
+        "alternativas": ["10", "20", "25", "40"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Quanto é 5 + 3 x 2?",
+        "alternativas": ["16", "11", "13", "10"],
+        "correta": 1
+      },
+      {
+        "enunciado": "Quanto é 15% de 200?",
+        "alternativas": ["20", "25", "30", "35"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Quantos zeros tem um milhão?",
+        "alternativas": ["4", "5", "6", "7"],
+        "correta": 2
+      },
+      {
+        "enunciado": "Qual desses números é divisível por 3 e por 5?",
+        "alternativas": ["10", "15", "20", "25"],
+        "correta": 1
+      }
+    ]
+  }
+]

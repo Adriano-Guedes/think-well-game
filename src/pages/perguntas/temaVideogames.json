@@ -1,0 +1,157 @@
+[
+    {
+        "tema": "Tema Videogames",
+        "perguntas": [
+             {
+                "enunciado": "Qual empresa criou o console PlayStation?",
+                "alternativas": ["Nintendo", "Sony", "Microsoft", "Sega"],
+                "correta": 1
+            },
+            {
+                "enunciado": "Qual é o personagem principal da série The Legend of Zelda?",
+                "alternativas": ["Zelda", "Link", "Ganon", "Mario"],
+                "correta": 1
+            },
+            {
+                "enunciado": "Qual desses jogos pertence à franquia de corrida da Nintendo?",
+                "alternativas": ["Gran Turismo", "Forza Horizon", "Mario Kart", "Need for Speed"],
+                "correta": 2
+            },
+            {
+                "enunciado": "Em qual jogo o personagem Master Chief aparece?",
+                "alternativas": ["Call of Duty", "Halo", "Battlefield", "Destiny"],
+                "correta": 1
+            },
+            {
+                "enunciado": "Qual desses jogos foi desenvolvido pela Rockstar Games?",
+                "alternativas": ["God of War", "Red Dead Redemption", "Halo", "FIFA"],
+                "correta": 1
+            },
+            {
+                "enunciado": "Qual é o nome do encanador famoso da Nintendo?",
+                "alternativas": ["Luigi", "Peach", "Mario", "Toad"],
+                "correta": 2
+            },
+            {
+                "enunciado": "Qual desses consoles foi lançado primeiro?",
+                "alternativas": ["PlayStation 4", "Xbox One", "Nintendo Switch", "PlayStation 3"],
+                "correta": 3
+            },
+            {
+                "enunciado": "Em qual jogo você coleta anéis dourados?",
+                "alternativas": ["Sonic", "Mario", "Donkey Kong", "Crash Bandicoot"],
+                "correta": 0
+            },
+            {
+                "enunciado": "Quem é o criador da série Metal Gear?",
+                "alternativas": ["Shigeru Miyamoto", "Gabe Newell", "Hideo Kojima", "Sid Meier"],
+                "correta": 2
+            },
+            {
+                "enunciado": "Em que ano foi lançado o primeiro console PlayStation?",
+                "alternativas": ["1992", "1994", "1996", "1998"],
+                "correta": 1
+            },
+            {
+                "enunciado": "Qual desses jogos é um simulador de vida?",
+                "alternativas": ["FIFA", "The Sims", "Overwatch", "Counter-Strike"],
+                "correta": 1
+            },
+            {
+                "enunciado": "Qual é o nome do protagonista de God of War?",
+                "alternativas": ["Kratos", "Ares", "Zeus", "Hades"],
+                "correta": 0
+            },
+            {
+                "enunciado": "Qual jogo é conhecido por seu modo 'Battle Royale'?",
+                "alternativas": ["The Witcher 3", "Minecraft", "Fortnite", "Stardew Valley"],
+                "correta": 2
+            },
+            {
+                "enunciado": "Qual empresa produz o Xbox?",
+                "alternativas": ["Sony", "Nintendo", "Microsoft", "Atari"],
+                "correta": 2
+            },
+            {
+                "enunciado": "Qual desses jogos é ambientado no Velho Oeste?",
+                "alternativas": ["GTA V", "Red Dead Redemption", "The Last of Us", "Assassin's Creed"],
+                "correta": 1
+            },
+            {
+                "enunciado": "Qual jogo popular se passa no universo de blocos?",
+                "alternativas": ["Roblox", "Minecraft", "Fortnite", "Tetris"],
+                "correta": 1
+            },
+            {
+                "enunciado": "Quem é o principal rival de Mario?",
+                "alternativas": ["Luigi", "Bowser", "Wario", "Donkey Kong"],
+                "correta": 1
+            },
+            {
+                "enunciado": "Qual personagem é conhecido por seu chapéu verde?",
+                "alternativas": ["Mario", "Link", "Luigi", "Yoshi"],
+                "correta": 2
+            },
+            {
+                "enunciado": "Em qual jogo os personagens enfrentam zumbis em Raccoon City?",
+                "alternativas": ["Silent Hill", "The Last of Us", "Resident Evil", "Left 4 Dead"],
+                "correta": 2
+            },
+            {
+                "enunciado": "Qual é o principal objetivo no jogo Pac-Man?",
+                "alternativas": ["Comer fantasmas", "Coletar moedas", "Comer pontos", "Fugir de inimigos"],
+                "correta": 2
+            },
+            {
+                "enunciado": "Quem é o mascote da SEGA?",
+                "alternativas": ["Sonic", "Tails", "Knuckles", "Mario"],
+                "correta": 0
+            },
+            {
+                "enunciado": "Qual desses jogos é de estratégia em tempo real?",
+                "alternativas": ["Age of Empires", "Halo", "Overwatch", "Need for Speed"],
+                "correta": 0
+            },
+            {       
+                "enunciado": "Qual console popularizou os cartuchos removíveis?",
+                "alternativas": ["PlayStation", "Super Nintendo", "Dreamcast", "GameCube"],
+                "correta": 1
+            },
+            {
+                "enunciado": "Qual é o nome do dragão roxo da série da Insomniac Games?",
+                "alternativas": ["Banguela", "Spyro", "Draco", "Charizard"],
+                "correta": 1
+            },
+            {
+                "enunciado": "Qual desses jogos tem o protagonista chamado Geralt?",
+                "alternativas": ["God of War", "The Witcher", "Dark Souls", "Assassin’s Creed"],
+                "correta": 1
+            },
+            {
+                "enunciado": "Qual empresa criou o jogo Tetris?",
+                "alternativas": ["Sega", "Nintendo", "Atari", "Alexey Pajitnov"],
+                "correta": 3
+            },
+            {
+                "enunciado": "Qual console foi lançado com o jogo Wii Sports incluso?",
+                "alternativas": ["GameCube", "Nintendo Wii", "Switch", "DS"],
+                "correta": 1
+            },
+            {
+                "enunciado": "Qual gênero se passa o jogo Mass Effect?",
+                "alternativas": ["Fantasia", "Sci-fi", "Histórico", "Terror"],
+                "correta": 1
+            },
+            {       
+                "enunciado": "Qual é o nome do encanador rival de Mario, de roupa amarela?",
+                "alternativas": ["Wario", "Luigi", "Toad", "Yoshi"],
+                "correta": 0
+            },
+            {
+                "enunciado": "Qual desses jogos é conhecido por sua dificuldade extrema?",
+                "alternativas": ["Call of Duty", "Dark Souls", "FIFA", "The Sims"],
+                "correta": 1
+            }
+        ]    
+    }
+]
